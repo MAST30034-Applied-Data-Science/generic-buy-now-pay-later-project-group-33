@@ -134,3 +134,4 @@ data/raw/
 
 # OSX .DS_Store file
 .DS_Store
+plots/consumer_distribution_ping.html
