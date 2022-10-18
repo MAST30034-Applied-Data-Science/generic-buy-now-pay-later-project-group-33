@@ -1,5 +1,6 @@
 # Generic Buy Now, Pay Later Project
 
+<<<<<<< HEAD
 Group members:
 Jiaming Zheng 1173102
 Honghao Ou 1170567
@@ -21,3 +22,5 @@ To run the pipeline, please visit the `notebook` directory and run the files fro
 6. `6.compute monthly profit growth`: This notebook computes the monthly profit growth for each merchant, outputs the result to `data/curated`.
 7. `7.fraud probability imputation.ipynb`: This notebook computes the fraud probability for each merchant, outputs the result to `data/curated`.
 8. `8.ranking system.ipynb`: This notebook constructs the ranking system and illustrates the top 10 merchants for each category.
+9. `Summary of Project`: This notebook summary the approach and result of the project.
+`
